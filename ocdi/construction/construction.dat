@@ -1,0 +1,20 @@
+a:4:{s:8:"template";s:16:"gtl-multipurpose";s:4:"mods";a:58:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:12:"primary-menu";i:24;}s:18:"custom_css_post_id";i:62;s:14:"slider_image_1";s:135:"http://demo.greenturtlelab.com/gtl-multipurpose-pro/construction/wp-content/uploads/sites/4/2018/03/construction-worker-569126_1920.jpg";s:14:"slider_title_1";s:32:"Welcome  To  Construction  site ";s:14:"slider_image_2";s:112:"http://demo.greenturtlelab.com/gtl-multipurpose-pro/construction/wp-content/uploads/sites/4/2018/04/banner-1.jpg";s:19:"theme_primary_color";s:7:"#fab702";s:19:"footer_widget_areas";s:1:"4";s:16:"header_textcolor";s:6:"fab702";s:9:"menu_type";s:13:"sticky-header";s:13:"caption_align";s:6:"center";s:14:"slider_title_2";s:32:"We    Are The  Best Ever Company";s:14:"slider_image_3";s:0:"";s:14:"slider_image_4";s:0:"";s:14:"slider_image_5";s:0:"";s:20:"slider_1_cta_1_label";s:9:"View More";s:17:"slider_subtitle_1";s:24:"Ultimate WordPress Theme";s:17:"slider_subtitle_2";s:20:"Feel free to join us";s:20:"slider_2_cta_1_label";s:9:"View More";s:11:"line_height";i:45;s:12:"border_color";s:0:"";s:11:"label_color";s:7:"#ffffff";s:13:"s_line_height";i:44;s:10:"s_bg_color";s:0:"";s:13:"s_label_color";s:7:"#fab702";s:19:"s_label_hover_color";s:7:"#ffffff";s:18:"slider_1_cta_2_btn";s:13:"secondary_btn";s:17:"label_hover_color";s:7:"#fab702";s:18:"slider_1_cta_1_btn";s:11:"primary_btn";s:15:"s_border_radius";i:0;s:9:"s_padding";i:35;s:18:"slider_2_cta_1_btn";s:11:"primary_btn";s:20:"slider_1_cta_2_label";s:11:"Get A Quote";s:18:"slider_1_cta_2_url";s:1:"#";s:8:"bg_color";s:7:"#fab702";s:14:"bg_hover_color";s:7:"#ffffff";s:13:"border_radius";i:0;s:14:"s_border_color";s:7:"#fab702";s:17:"s_label_font_size";i:16;s:16:"s_bg_hover_color";s:7:"#fab702";s:15:"label_font_size";i:16;s:14:"t_border_color";s:7:"#ffffff";s:14:"t_border_width";i:3;s:15:"t_border_radius";i:0;s:10:"t_bg_color";s:0:"";s:13:"t_label_color";s:7:"#ffffff";s:17:"t_label_font_size";i:16;s:14:"s_border_width";i:3;s:19:"t_label_hover_color";s:7:"#fab702";s:9:"t_padding";i:22;s:16:"t_bg_hover_color";s:7:"#ffffff";s:15:"q_border_radius";i:45;s:14:"q_border_width";i:3;s:14:"q_border_color";s:0:"";s:16:"q_bg_hover_color";s:7:"#fab702";s:13:"q_label_color";s:7:"#fab702";s:19:"q_label_hover_color";s:7:"#ffffff";s:10:"q_bg_color";s:7:"#ffffff";}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:476:".compo-portfolio-body.layout-p3 .p-btn {
+    display: inline-block;
+    padding: 0 15px 15px;
+    font-size: 18px;
+    position: relative;
+    cursor: pointer;
+    color: #888;
+    -webkit-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+}
+.panel-row-style.panel-row-style-for-16-4{
+	padding-bottom:0px!important;
+}
+.panel-row-style.panel-row-style-for-16-5 {
+    padding-top: 0px!important;
+}
+.divider-text h2{
+	margin-bottom:0;
+}";}

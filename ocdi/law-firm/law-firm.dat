@@ -1,0 +1,144 @@
+a:4:{s:8:"template";s:16:"gtl-multipurpose";s:4:"mods";a:33:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:12:"primary-menu";i:19;}s:18:"custom_css_post_id";i:45;s:14:"slider_image_1";s:110:"http://demo.greenturtlelab.com/gtl-multipurpose-pro/law-firm/wp-content/uploads/sites/3/2018/03/bannerLaw3.jpg";s:14:"slider_title_1";s:35:"The Attorneys You Want On Your Side";s:14:"slider_title_2";s:35:"The Attorneys You Want On Your Side";s:14:"slider_image_2";s:114:"http://demo.greenturtlelab.com/gtl-multipurpose-pro/law-firm/wp-content/uploads/sites/3/2018/03/bannerLaw2.pg_.jpg";s:12:"border_width";i:0;s:8:"bg_color";s:7:"#bd9250";s:11:"label_color";s:7:"#f4f4f4";s:13:"border_radius";i:34;s:7:"padding";i:30;s:11:"line_height";i:44;s:19:"theme_primary_color";s:7:"#cca876";s:21:"theme_secondary_color";s:7:"#786a3d";s:16:"menu_items_hover";s:7:"#ffffff";s:20:"slider_1_cta_1_label";s:10:"Learn More";s:17:"slider_subtitle_1";s:25:"Ultimate Wordpress Themes";s:18:"slider_1_cta_1_btn";s:11:"primary_btn";s:17:"slider_subtitle_2";s:23:"Feel free to go arround";s:18:"slider_2_cta_1_url";s:21:"http://Case%20Studies";s:18:"slider_2_cta_1_btn";s:11:"primary_btn";s:20:"slider_2_cta_1_label";s:10:"Learn more";s:14:"bg_hover_color";s:7:"#77776e";s:17:"label_hover_color";s:7:"#ffffff";s:16:"page_sidebar_pos";s:4:"left";s:14:"q_border_color";s:7:"#ffffff";s:14:"q_border_width";i:3;s:10:"q_bg_color";s:0:"";s:16:"q_bg_hover_color";s:7:"#dd9933";s:13:"q_label_color";s:7:"#ffffff";s:19:"q_label_hover_color";s:7:"#ffffff";s:15:"q_border_radius";i:0;}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:2616:".underline{
+height:4px;
+width:100%;
+max-width:80px;
+	margin:0 auto 30px;
+background-color:#786a3d}
+
+
+.compo-service-body .read-more{display:none}
+
+.widget_gtl_services .compo-service-body .card-design:hover{
+	box-shadow:none;
+}
+
+.compo-service-body .card-design h4{
+	margin-bottom:15px;
+	text-transform: uppercase;
+	font-size: 18px;
+}
+.book-app-form{
+    padding-top: 20px;
+}
+.book-appointment ul li{
+	list-style:none;
+	color:rgba(255, 255, 255, 0.71);
+	letter-spacing:2px;
+	
+}
+
+.option-radio li input{
+	margin-right:5px;
+}
+.left-app-form {
+    width: 49%;
+    float: left;
+}
+span.wpcf7-list-item{
+	display:block;
+	margin:0 0 15px;
+	font-size:17px;
+}
+.option-radio span.wpcf7-list-item{
+	display:inline-block;
+	margin-right:25px;
+	margin-bottom:0;
+}
+.right-app-form {
+    width: 49%;
+    float: left;
+}
+ span.wpcf7-list-item input{
+    background: rgb(84, 84, 84);
+    cursor: pointer;
+    width: 1.2em;
+    height: 1.2em;
+    display: inline-block;
+    margin: 0 5px 0 0;
+    vertical-align: text-bottom;
+}
+select option{
+background: rgb(84, 84, 84);
+}
+.right-app-form h6 {
+	font-size:22px;
+   
+    text-align: left;
+    color:#dd9933;
+    text-transform: capitalize;
+    margin-bottom: 30px;
+    letter-spacing: 2px;
+	
+
+    
+}
+.book-app-form p{
+	margin-bottom:0;
+}
+.book-app-form p label {
+    font-size:18px;
+	color:rgba(255, 255, 255, 0.83);
+    letter-spacing: 2.5px;
+    font-weight: 400;
+    position: relative;
+    margin-bottom:5px;
+    display: inline-block;
+    text-transform: capitalize;
+}
+.app-form{
+	margin-bottom:25px;
+}
+.app-form .input-wrapper{
+	position:relative;
+}
+.input-wrapper i {
+    position: absolute;
+    color: #dd9933;
+    font-size: 19px;
+    top: 9px;
+    left: 0px;
+}
+.wpcf7-form .book-app-form .wpcf7-form-control-wrap input.wpcf7-form-control, 
+.wpcf7-form .book-app-form .wpcf7-form-control-wrap select{
+	width:90%;
+    color: #fff;
+	font-size:17px;
+    letter-spacing: 2px;
+    outline: none;
+    background: rgba(255, 255, 255, 0);
+    border: none;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.27);
+	padding:20px 20px 25px 40px;
+	line-height:normal;
+	margin-bottom:0;
+}
+.book-app-form input[type="submit"] {
+	border:3px solid;;
+	color:#fff;
+	background:transparent;
+}
+.book-app-form input[type="submit"]:hover{
+	background:#dd9933;
+		border-color:#dd9933;
+}
+
+@media(max-width:768px){
+	.layout-s3.four-col{
+		display:grid;
+		grid-template-columns: repeat(2, 1fr);
+	}
+}
+@media(max-width:576px){
+	.left-app-form,.right-app-form {
+   float: none;
+		width:100%;
+}
+}
+	
+@media(max-width:480px){
+	.layout-s3.four-col{
+		display:grid;
+		grid-template-columns: repeat(1, 1fr);
+	}
+}
+";}
